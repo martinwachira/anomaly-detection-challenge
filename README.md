@@ -1,5 +1,5 @@
 # Overview
-We will provide you with a CSV file `[download and unzip anomalies.zip]` available from this repository. You are expected to process the file and identify anomalies in the data set. 
+You are provided with a CSV file `[download and unzip anomalies.zip]` available from this repository. You are expected to process the file and identify anomalies in the data set. 
 
 Present your interpretation of the data and what it represents list the records and fields you identify as anomalous. Provide justification why those fields and records are anomalous. You may visualise/graph the data if you want but this is not a requirement.
 
