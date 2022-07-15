@@ -10,3 +10,6 @@ Present your interpretation of the data and what it represents list the records 
 * If the solution is deployed on AWS you will score extra points
 * The more cloud native, secure, cost efficient, performant and reliable the solution is the more points you will score.
 * The five pillars of well architected will be the main criteria
+
+
+PS: Repo link https://github.com/saf-se-summit/anomaly-detection-challenge 
